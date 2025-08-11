@@ -231,7 +231,7 @@ docker-compose up --build
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## 🙏 Acknowledgments
 
@@ -245,8 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 - Create an issue on GitHub
-- Contact: [your-email@domain.com]
-- Documentation: [Link to detailed docs]
+- Contact: ghelaw01@gmail.com
+
 
 ## 🔮 Roadmap
 
